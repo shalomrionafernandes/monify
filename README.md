@@ -2,9 +2,9 @@
 
 Built with **Next.js, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI**, and more — Monify helps you **track**, **analyze**, and **optimize** your student finances with AI-powered insights and receipt scanning.
 
-<img width="1470" alt="Monify banner" src="/banners.png">
 
----
+![image](https://github.com/user-attachments/assets/b5053bd7-f612-4e59-877c-9fdf92465e79)
+
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +30,7 @@ Built with **Next.js, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI**, 
 2. **Install dependencies**
 
    ```bash
-   pnpm install
+   npm install --legacy-peer-deps
    ```
 
 3. **Set up environment variables**
@@ -62,7 +62,7 @@ ARCJET_KEY=
 
 4. **Run locally**
    ```bash
-   pnpm dev
+   npm run dev
    ```
 
 ---
